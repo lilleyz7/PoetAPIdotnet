@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Big Daddy Z\\source\\repos\\PoetAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D21C1BDB-0818-47CC-B900-6FEA813CB280}|PoetAPI.csproj|c:\\users\\big daddy z\\source\\repos\\poetapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D21C1BDB-0818-47CC-B900-6FEA813CB280}|PoetAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D21C1BDB-0818-47CC-B900-6FEA813CB280}|PoetAPI.csproj|c:\\users\\big daddy z\\source\\repos\\poetapi\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{D21C1BDB-0818-47CC-B900-6FEA813CB280}|PoetAPI.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D21C1BDB-0818-47CC-B900-6FEA813CB280}|PoetAPI.csproj|c:\\users\\big daddy z\\source\\repos\\poetapi\\controllers\\poemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D21C1BDB-0818-47CC-B900-6FEA813CB280}|PoetAPI.csproj|solutionrelative:controllers\\poemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D21C1BDB-0818-47CC-B900-6FEA813CB280}|PoetAPI.csproj|c:\\users\\big daddy z\\source\\repos\\poetapi\\repos\\poemrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D21C1BDB-0818-47CC-B900-6FEA813CB280}|PoetAPI.csproj|solutionrelative:repos\\poemrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D21C1BDB-0818-47CC-B900-6FEA813CB280}|PoetAPI.csproj|c:\\users\\big daddy z\\source\\repos\\poetapi\\repos\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D21C1BDB-0818-47CC-B900-6FEA813CB280}|PoetAPI.csproj|solutionrelative:repos\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D21C1BDB-0818-47CC-B900-6FEA813CB280}|PoetAPI.csproj|c:\\users\\big daddy z\\source\\repos\\poetapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D21C1BDB-0818-47CC-B900-6FEA813CB280}|PoetAPI.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D21C1BDB-0818-47CC-B900-6FEA813CB280}|PoetAPI.csproj|c:\\users\\big daddy z\\source\\repos\\poetapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D21C1BDB-0818-47CC-B900-6FEA813CB280}|PoetAPI.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Big Daddy Z\\source\\repos\\PoetAPI\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\Big Daddy Z\\source\\repos\\PoetAPI\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-01-02T05:03:22.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Big Daddy Z\\source\\repos\\PoetAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Big Daddy Z\\source\\repos\\PoetAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T22:47:47.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PoemRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Big Daddy Z\\source\\repos\\PoetAPI\\Repos\\PoemRepo.cs",
+              "RelativeDocumentMoniker": "Repos\\PoemRepo.cs",
+              "ToolTip": "C:\\Users\\Big Daddy Z\\source\\repos\\PoetAPI\\Repos\\PoemRepo.cs",
+              "RelativeToolTip": "Repos\\PoemRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T22:44:59.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PoemController.cs",
+              "DocumentMoniker": "C:\\Users\\Big Daddy Z\\source\\repos\\PoetAPI\\Controllers\\PoemController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PoemController.cs",
+              "ToolTip": "C:\\Users\\Big Daddy Z\\source\\repos\\PoetAPI\\Controllers\\PoemController.cs",
+              "RelativeToolTip": "Controllers\\PoemController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAkwAsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T22:44:43.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Big Daddy Z\\source\\repos\\PoetAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Big Daddy Z\\source\\repos\\PoetAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAC4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T22:37:28.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Big Daddy Z\\source\\repos\\PoetAPI\\Repos\\UserRepo.cs",
+              "RelativeDocumentMoniker": "Repos\\UserRepo.cs",
+              "ToolTip": "C:\\Users\\Big Daddy Z\\source\\repos\\PoetAPI\\Repos\\UserRepo.cs",
+              "RelativeToolTip": "Repos\\UserRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T22:15:01.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Big Daddy Z\\source\\repos\\PoetAPI\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Big Daddy Z\\source\\repos\\PoetAPI\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAiwCYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T22:16:29.642Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

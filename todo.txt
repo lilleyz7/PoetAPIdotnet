@@ -1,0 +1,3 @@
+Poem controller for searching for a poem thru 3rd party API
+Testing
+Look into automapper
